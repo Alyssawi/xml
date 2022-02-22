@@ -1,0 +1,14 @@
+Song {display:block; font-size: 20px;}
+Song:after {content: "***";}
+
+Artist {display: block;}
+Artist:before {content: "Artist: ";}
+
+Title {display: block;}
+Title:before {content: "Title: ";}
+
+Genre {display: block;}
+Genre:before {content: "Genre: ";}
+
+Year {display: block;}
+Year:before {content: "Year: ";}
