@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="style.css"?>
+<SetList>
+    <Song>
+        <Artist>Caravan Palace</Artist>
+        <Title>Wonderland</Title>
+        <Genre>
+            <Primary>Electro Swing</Primary>
+            <Secondary>Jazz Pop</Secondary>
+        </Genre>
+        <Year>2015</Year>
+    </Song>
+    <Song>
+        <Artist>Caravan Palace</Artist>
+        <Title>Miracle</Title>
+        <Genre>
+            <Primary>Electro Swing</Primary>
+            <Secondary>Jazz Pop</Secondary>
+        </Genre>
+        <Year>2019</Year>
+    </Song>
+    <Song>
+        <Artist>Caravan Palace</Artist>
+        <Title>Lone Digger</Title>
+        <Genre>
+            <Primary>Electro Swing</Primary>
+            <Secondary>Jazz Pop</Secondary>
+        </Genre>
+        <Year>2015</Year>
+    </Song>
+    <Song>
+        <Artist>Caravan Palace</Artist>
+        <Title>Suzy</Title>
+        <Genre>
+            <Primary>Electro Swing</Primary>
+            <Secondary>Jazz Pop</Secondary>
+        </Genre>
+        <Year>2008</Year>
+    </Song>
+    <Song>
+        <Artist>The Beatles</Artist>
+        <Title>Maxwell's Silver Hammer</Title>
+        <Genre>Rock</Genre>
+        <Year>1969</Year>
+    </Song>
+    <Song>
+        <Artist>The Beatles</Artist>
+        <Title>Come Together</Title>
+        <Genre>Rock</Genre>
+        <Year>1969</Year>
+    </Song>
+    <Song>
+        <Artist>The Beatles</Artist>
+        <Title>Lucy in the Sky with Diamonds</Title>
+        <Genre>Rock</Genre>
+        <Year>1967</Year>
+    </Song>
+    <Song>
+        <Artist>Dua Lipa</Artist>
+        <Title>Levitating</Title>
+        <Genre>
+            <Primary>Pop</Primary>
+            <Secondary>Dance</Secondary>
+        </Genre>
+        <Year>2020</Year>
+    </Song>
+    <Song>
+        <Artist>Dua Lipa</Artist>
+        <Title>Don't Start Now</Title>
+        <Genre>
+            <Primary>Pop</Primary>
+            <Secondary>Dance</Secondary>
+        </Genre>
+        <Year>2020</Year>
+    </Song>
+    <Song>
+        <Artist>Boston</Artist>
+        <Title>Amanda</Title>
+        <Genre>
+            <Primary>Rock</Primary>
+            <Secondary>Power Ballad</Secondary>
+        </Genre>
+        <Year>1986</Year>
+    </Song>
+</SetList>
